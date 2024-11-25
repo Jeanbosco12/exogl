@@ -12,5 +12,5 @@ def Logo():
         
 
 Logo()
-user = input("Entrer votre nom: ")
+user = input("Entrer votre prenom: ")
 print(Hello(user))
